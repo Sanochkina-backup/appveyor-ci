@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7nea9i64davmgf20?svg=true)](https://ci.appveyor.com/project/EvgeniiaSanochkina/aqa-homework-task2)
+[![Build status](https://ci.appveyor.com/api/projects/status/w711dp0072hq8dcl?svg=true)](https://ci.appveyor.com/project/Sanochkina-backup/appveyor-ci)
